@@ -1,0 +1,12 @@
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\bin\Debug\net6.0\Micro_Helper.deps.json
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\bin\Debug\net6.0\Micro_Helper.dll
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\bin\Debug\net6.0\Micro_Helper.pdb
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\obj\Debug\net6.0\Micro_Helper.csproj.AssemblyReference.cache
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\obj\Debug\net6.0\Micro_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\obj\Debug\net6.0\Micro_Helper.AssemblyInfoInputs.cache
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\obj\Debug\net6.0\Micro_Helper.AssemblyInfo.cs
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\obj\Debug\net6.0\Micro_Helper.csproj.CoreCompileInputs.cache
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\obj\Debug\net6.0\Micro_Helper.dll
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\obj\Debug\net6.0\refint\Micro_Helper.dll
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\obj\Debug\net6.0\Micro_Helper.pdb
+C:\Users\johann.flores\Documents\angular\APIS PRCT\Micro_api\Helper\obj\Debug\net6.0\ref\Micro_Helper.dll
